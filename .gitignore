@@ -6,8 +6,14 @@ obj/
 packages/
 Database/User
 Mir3DEditor/Mir3DCrypto/Properties/PublishProfiles/FolderProfile.pubxml
-
 GameServer/Properties/PublishProfiles/FolderProfile.pubxml
 Database/Backup/
-游戏登录器/obj
-账号服务器/obj
+游戏登录器/obj/
+游戏登录器/bin/
+游戏登录器/.vs/
+账号服务器/obj/
+账号服务器/bin/
+账号服务器/.vs/
+游戏服务器/obj/
+游戏服务器/bin/
+游戏服务器/.vs/

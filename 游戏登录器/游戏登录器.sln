@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33205.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "游戏登录器", "游戏登录器.csproj", "{FE2109AB-54D6-4089-92E7-B9F9BF8AED73}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FE2109AB-54D6-4089-92E7-B9F9BF8AED73}.Debug|x86.ActiveCfg = Debug|x86
+		{FE2109AB-54D6-4089-92E7-B9F9BF8AED73}.Debug|x86.Build.0 = Debug|x86
+		{FE2109AB-54D6-4089-92E7-B9F9BF8AED73}.Release|x86.ActiveCfg = Release|x86
+		{FE2109AB-54D6-4089-92E7-B9F9BF8AED73}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3A390D7B-7DDC-46A2-B23F-1ABCACCEB202}
+	EndGlobalSection
+EndGlobal
